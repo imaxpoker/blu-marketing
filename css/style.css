@@ -360,3 +360,7 @@ nav:hover {
   padding: 20px;
   
 }
+
+:target{
+  display: flex;
+}
